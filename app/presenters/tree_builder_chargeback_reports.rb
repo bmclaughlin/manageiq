@@ -9,7 +9,8 @@ class TreeBuilderChargebackReports < TreeBuilder
     locals = super
     temp = {
       :id_prefix => "cbrpt_",
-      :autoload  => true
+      :autoload  => true,
+      :add_root  => false,
     }
     locals.merge!(temp)
   end

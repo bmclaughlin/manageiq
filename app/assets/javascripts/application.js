@@ -52,6 +52,7 @@
 //= require bootstrap-hover-dropdown
 //= require bootstrap-switch
 //= require angular-bootstrap-switch
+//= require bootstrap-treeview
 //= require jquery.observe_field
 //= require miq_ujs_bindings
 //= require dynatree/jquery.dynatree
